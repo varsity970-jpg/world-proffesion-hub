@@ -1,0 +1,291 @@
+REFERENCE LINKS USED FOR KEY RESOURCE CATEGORIES
+================================================
+NCERT online textbooks: https://ncert.nic.in/textbook.php
+ePathshala: https://epathshala.nic.in/
+DIKSHA: https://diksha.gov.in/
+MIT App Inventor: https://appinventor.mit.edu/
+Android Developers: https://developer.android.com/
+Official Muse Asia channel: https://www.youtube.com/@MuseAsia
+Official Ani-One Asia channel: https://www.youtube.com/@AniOneAsia
+Project Gutenberg: https://www.gutenberg.org/
+OpenStax: https://openstax.org/
+Internet Archive: https://archive.org/
+
+
+Added technology/social/video platform official links (October 2026):
+
+Video Sharing & Live Streaming
+- YouTube: https://www.youtube.com/ — Publish and watch videos, Shorts and livestreams.
+- YouTube Studio: https://studio.youtube.com/ — Manage your channel, analytics, comments and video uploads.
+- Instagram: https://www.instagram.com/ — Photo/video sharing, Reels, Stories and creator profiles.
+- Facebook: https://www.facebook.com/ — Share videos, Reels, posts, pages and livestreams.
+- TikTok: https://www.tiktok.com/ — Short-form video discovery and publishing; availability varies by region.
+- Vimeo: https://vimeo.com/ — Video hosting and sharing for creators and businesses.
+- Dailymotion: https://www.dailymotion.com/ — Watch and publish news, entertainment and creator videos.
+- Twitch: https://www.twitch.tv/ — Livestreaming platform for gaming, music and other communities.
+- Rumble: https://rumble.com/ — Video publishing and livestreaming platform.
+- PeerTube: https://joinpeertube.org/ — Open-source, federated video hosting network.
+- Loom: https://www.loom.com/ — Record and share screen/camera videos for work and learning.
+- Streamable: https://streamable.com/ — Upload and share short video clips.
+- Snapchat: https://www.snapchat.com/ — Share short videos and Stories with friends and followers.
+- Pinterest: https://www.pinterest.com/ — Discover and save visual ideas, clips and creator content.
+- LinkedIn Video: https://www.linkedin.com/ — Share professional videos and educational content.
+- Reddit: https://www.reddit.com/ — Share videos and participate in topic-based communities.
+
+Social Media, Messaging & Communities
+- WhatsApp Web: https://web.whatsapp.com/ — Use WhatsApp chats and linked devices in a web browser.
+- WhatsApp: https://www.whatsapp.com/ — Messaging, voice/video calls and communities.
+- Messenger: https://www.messenger.com/ — Message and call people through Meta’s messaging service.
+- Telegram Web: https://web.telegram.org/ — Browser-based Telegram messaging and channels.
+- Telegram: https://telegram.org/ — Messaging, groups, channels and file sharing.
+- Signal: https://signal.org/ — Privacy-focused messaging and voice/video calls.
+- Discord: https://discord.com/ — Community servers, text channels, voice and video chat.
+- X: https://x.com/ — Real-time posts, conversations, news and media sharing.
+- Threads: https://www.threads.net/ — Text conversations and social posts from Meta.
+- Reddit: https://www.reddit.com/ — Topic-based communities, discussions, links and media.
+- LinkedIn: https://www.linkedin.com/ — Professional networking, career profiles and industry updates.
+- Pinterest: https://www.pinterest.com/ — Save and organize visual ideas and inspiration.
+- Bluesky: https://bsky.app/ — Social networking and public conversations.
+- Mastodon: https://joinmastodon.org/ — Decentralized social networking across independent servers.
+- Google Meet: https://meet.google.com/ — Browser-based video meetings.
+- Zoom: https://zoom.us/ — Video meetings, webinars and collaboration.
+- Microsoft Teams: https://www.microsoft.com/microsoft-teams/ — Work and school chat, meetings and collaboration.
+- Slack: https://slack.com/ — Team messaging, channels and workplace collaboration.
+
+Everyday Technology Websites & Services
+- Google: https://www.google.com/ — Search the web and access Google services.
+- Gmail: https://mail.google.com/ — Email service for personal and work communication.
+- Google Drive: https://drive.google.com/ — Store, organize and share files online.
+- Google Photos: https://photos.google.com/ — Back up and organize photos and videos, subject to account storage.
+- Google Maps: https://maps.google.com/ — Maps, directions, places and navigation.
+- Google Play: https://play.google.com/store — Discover Android apps, games, books and other digital content.
+- Apple App Store: https://www.apple.com/app-store/ — Discover apps for Apple devices.
+- Microsoft 365: https://www.microsoft365.com/ — Web versions of productivity apps and online documents.
+- Dropbox: https://www.dropbox.com/ — Cloud file storage and sharing.
+- OneDrive: https://onedrive.live.com/ — Microsoft cloud storage and file sharing.
+- Proton: https://proton.me/ — Privacy-focused email, calendar, drive and other services.
+- Firefox: https://www.mozilla.org/firefox/ — Web browser from Mozilla.
+- Brave Browser: https://brave.com/ — Web browser with privacy-focused features.
+- Google Chrome: https://www.google.com/chrome/ — Web browser for accessing websites and web apps.
+- Cloudflare: https://www.cloudflare.com/ — Internet infrastructure, security and performance services.
+- Speedtest by Ookla: https://www.speedtest.net/ — Measure internet connection speed and latency.
+- Have I Been Pwned: https://haveibeenpwned.com/ — Check whether an email address appears in known data breaches; never enter passwords.
+- Internet Archive: https://archive.org/ — Access archived web pages, books, media and digital collections.
+
+Safety note: NetMirror.org was not added as a clickable streaming link. Use licensed streaming providers and check availability through JustWatch (https://www.justwatch.com/in/).
+
+
+Government Services – Andhra Pradesh (official portals)
+- AP State Government Portal: https://www.ap.gov.in/ — Official Andhra Pradesh government information, departments, schemes and public services.
+- AP MeeSeva Citizen Portal: https://onlineap.meeseva.gov.in/CitizenPortal/userinterface/citizen/Home.aspx — Access eligible AP citizen services such as revenue certificates, applications, payments and application-status checks.
+- AP Government Services Directory: https://services.india.gov.in/service/state_services?sd_id=39 — Government of India directory filtered for Andhra Pradesh services, including department service listings.
+- Grama/Ward Sachivalayam (GSWS): https://gramawardsachivalayam.ap.gov.in/ — Andhra Pradesh village/ward secretariat information and citizen-service resources; some services may route through local secretariats.
+- Meekosam Public Grievances (PGRS): https://meekosam.ap.gov.in/ — Register and follow public grievances for Andhra Pradesh government departments.
+- MeeBhoomi – AP Land Records: https://meebhoomi.ap.gov.in/ — View Andhra Pradesh land records and related landholder details where available.
+- BhuNaksha Andhra Pradesh: https://bhunaksha.ap.gov.in/ — View cadastral land maps and survey-related map information for Andhra Pradesh.
+- AP Registration & Stamps: https://registration.ap.gov.in/ — Official registration department information and property-registration services; verify available online services.
+- AP Transport Department: https://aptransport.org/ — Andhra Pradesh transport information and links for vehicle and driving-licence services.
+- Parivahan Sewa (Central – used in AP): https://parivahan.gov.in/ — Government of India portal for driving licences, vehicle registration and related transport services; choose Andhra Pradesh where applicable.
+- AP CDMA – Municipal Services: https://cdma.ap.gov.in/ — Urban local-body services and information, including municipal administration and citizen services.
+- APSPDCL Electricity Services: https://www.apspdcl.in/ — Southern Power Distribution Company of AP: electricity consumer services and bill-payment information.
+- APEPDCL Electricity Services: https://www.apeasternpower.com/ — Eastern Power Distribution Company of AP: consumer services and electricity information.
+- APCPDCL Electricity Services: https://www.apcpdcl.in/ — Central Power Distribution Company of AP consumer and electricity services.
+- AP Finance / CFMS: https://cfms.ap.gov.in/ — Andhra Pradesh Comprehensive Financial Management System for relevant finance, bill and payment workflows.
+- AP e-Procurement: https://www.apeprocurement.gov.in/ — Andhra Pradesh government tender notices and e-procurement services for eligible bidders.
+- APPSC Recruitment: https://psc.ap.gov.in/ — Andhra Pradesh Public Service Commission recruitment notifications, examinations and results.
+- APSSDC Skill Development: https://www.apssdc.in/ — Andhra Pradesh skill-development training, courses and employment-oriented programs.
+- JnanaBhumi Scholarships: https://jnanabhumi.ap.gov.in/ — Andhra Pradesh student scholarship and education-related services; check current eligibility and application instructions.
+- AP School Education Department: https://cse.ap.gov.in/DSE/ — Official school education department information, notices, school resources and education services.
+- Board of Intermediate Education AP: https://bie.ap.gov.in/ — Andhra Pradesh Intermediate education notices, examinations and student resources.
+- AP EAPCET Admissions Portal: https://cets.apsche.ap.gov.in/EAPCET/ — Official AP EAPCET examination, counselling and admissions portal when the current cycle is active.
+- YSR Aarogyasri / AP Health Scheme: https://www.ysraarogyasri.ap.gov.in/ — Andhra Pradesh health scheme information and eligible beneficiary/hospital resources; check current scheme details.
+- AP State Portal – District Websites: https://www.ap.gov.in/ — Start here to find official district administration websites, contacts, notices and local services.
+- PAN Application – Protean eGov (Central): https://tinpan.proteantech.in/ — Government-authorized PAN application and related services for eligible applicants across India, including AP.
+- PAN Application – UTIITSL (Central): https://www.pan.utiitsl.com/ — Alternative authorized PAN application and correction service for applicants across India.
+- Income Tax e-Filing (Central): https://www.incometax.gov.in/iec/foportal/ — Income-tax services, PAN-related information, e-PAN links where available and tax filing.
+- Voter Services Portal – ECI (Central): https://voters.eci.gov.in/ — Apply for voter registration, corrections, shifting, application tracking and e-EPIC services; select Andhra Pradesh.
+- Electoral Roll Search – ECI (Central): https://electoralsearch.eci.gov.in/ — Search electoral-roll entries and voter details, including for Andhra Pradesh.
+- UIDAI My Aadhaar (Central): https://myaadhaar.uidai.gov.in/ — Download Aadhaar, check status, update eligible details and access Aadhaar services. New enrolment generally requires an enrolment centre visit.
+- UIDAI Aadhaar Enrolment Information (Central): https://www.uidai.gov.in/en/my-aadhaar — Official Aadhaar enrolment guidance, appointment booking, update information and enrolment-centre resources.
+- Passport Seva (Central): https://www.passportindia.gov.in/ — Apply for a passport, book appointments and track applications for residents of Andhra Pradesh.
+- DigiLocker (Central): https://www.digilocker.gov.in/ — Access and share eligible digital documents and certificates issued by participating government departments.
+- UMANG Government Services (Central): https://web.umang.gov.in/ — Single platform for many participating central and state government services; search for Andhra Pradesh services.
+- National Government Services Portal: https://services.india.gov.in/ — Search official government services by state, category and department, including Andhra Pradesh.
+- CPGRAMS – Central Grievances: https://pgportal.gov.in/ — Lodge grievances about central government departments; for AP state departments, use the AP grievance portal instead.
+
+
+ADDED INCOME & EARNING DIRECTORIES
+
+Freelancing & Remote Gigs
+- Upwork: https://www.upwork.com/ — Freelance marketplace for professional projects and client contracts.
+- Fiverr: https://www.fiverr.com/ — Offer packaged services such as design, editing, voice work and coding.
+- Freelancer.com: https://www.freelancer.com/ — Bid on client projects and contests; check fees and project terms.
+- PeoplePerHour: https://www.peopleperhour.com/ — Freelance projects and service offers across creative and technical fields.
+- Guru: https://www.guru.com/ — Find freelance projects and manage client work agreements.
+- Contra: https://contra.com/ — Portfolio-led independent work and client project opportunities.
+- Truelancer: https://www.truelancer.com/ — Freelance marketplace with India-focused listings among global projects.
+- Workana: https://www.workana.com/ — Remote freelance projects in multiple professional categories.
+- Toptal: https://www.toptal.com/ — Selective network for experienced technology, design and finance freelancers.
+- 99designs: https://99designs.com/ — Design projects and design contests; review contest rules before joining.
+- DesignCrowd: https://www.designcrowd.com/ — Crowdsourced graphic design and creative projects.
+- Dribbble Jobs: https://dribbble.com/jobs — Design portfolio community with job opportunities where available.
+- Behance Jobs: https://www.behance.net/joblist — Creative portfolio platform with design and creative job listings.
+- Wellfound: https://wellfound.com/ — Startup jobs, including remote roles; not a guaranteed freelance marketplace.
+- FlexJobs: https://www.flexjobs.com/ — Curated remote and flexible job listings; paid membership may apply.
+- Remote OK: https://remoteok.com/ — Remote job listings, especially technology and digital roles.
+- We Work Remotely: https://weworkremotely.com/ — Remote job board across software, design, support and marketing.
+- Remotive: https://remotive.com/ — Remote job listings and career resources.
+- LinkedIn Jobs: https://www.linkedin.com/jobs/ — Search jobs, contract roles and remote opportunities.
+- Indeed India: https://in.indeed.com/ — Search India jobs, part-time roles and remote work.
+- National Career Service: https://www.ncs.gov.in/ — Government of India job matching and career services; beware of impersonators.
+- Internshala: https://internshala.com/ — Internships, fresher jobs and selected work-from-home listings.
+- Apna: https://apna.co/ — India-focused job listings across local and office-based roles.
+- Naukri: https://www.naukri.com/ — India job search and recruiter listings.
+- Jooble India: https://in.jooble.org/ — Aggregated job search across multiple sources; verify employers directly.
+
+Paid Surveys, User Testing & Microtasks
+- YouGov: https://yougov.com/ — Opinion surveys and research panels; rewards depend on local panel rules.
+- Toluna Influencers: https://www.toluna.com/ — Consumer opinion surveys and reward programs in supported countries.
+- LifePoints: https://www.lifepointspanel.com/ — Online survey panel; check India registration and redemption options.
+- Ipsos iSay: https://www.ipsosisay.com/ — Market research surveys and rewards where available.
+- Rakuten Insight: https://insight.rakuten.com/ — Consumer research surveys in supported regions.
+- Google Opinion Rewards: https://surveys.google.com/google-opinion-rewards/ — Short surveys; availability and reward type depend on country/device.
+- Prolific: https://www.prolific.com/ — Academic research studies; participant country eligibility and waitlists apply.
+- CloudResearch Connect: https://connect.cloudresearch.com/ — Research studies for eligible participants; check location eligibility.
+- Survey Junkie: https://www.surveyjunkie.com/ — Survey rewards platform; country eligibility may be limited.
+- ySense: https://www.ysense.com/ — Surveys and online tasks; check available offers and payment methods.
+- Prime Opinion: https://www.primeopinion.com/ — Paid survey panel in supported regions; availability varies.
+- AttaPoll: https://attapoll.com/ — Mobile survey app/site; check local eligibility and payout thresholds.
+- Freecash: https://freecash.com/ — Offers, games and surveys; read offer terms and privacy details carefully.
+- Clickworker: https://www.clickworker.com/ — Microtasks, data categorization and other online work; country/payment availability varies.
+- OneForma: https://www.oneforma.com/ — AI data, language, annotation and project-based task opportunities.
+- TELUS Digital AI Community: https://www.telusdigital.com/careers/ai-community — Search evaluation, AI data and language projects when hiring in your region.
+- Appen: https://appen.com/ — AI training data and language projects; roles and country eligibility vary.
+- UserTesting: https://www.usertesting.com/ — Website and app usability tests; screeners and supported payout methods apply.
+- Userlytics: https://www.userlytics.com/ — Usability testing for websites, apps and prototypes.
+- Trymata: https://trymata.com/ — Website usability tests and recorded feedback tasks.
+- PlaytestCloud: https://www.playtestcloud.com/ — Mobile game playtesting; invitations depend on tester profile and region.
+- uTest: https://www.utest.com/ — Crowdtesting software and websites; testers complete project-based tasks.
+- Test IO: https://test.io/ — Software testing projects for eligible testers.
+- Tester Work: https://testerwork.com/ — Crowdtesting and bug-reporting opportunities.
+- Respondent: https://www.respondent.io/ — Research interviews for selected professional and consumer profiles; not guaranteed.
+- User Interviews: https://www.userinterviews.com/ — Paid research studies and interviews; participant eligibility varies.
+- dscout: https://www.dscout.com/ — Research missions and interviews through supported participant programs.
+- Amazon Mechanical Turk: https://www.mturk.com/ — Do not rely on this for new work: its official help page says the service closed on September 30, 2026.
+- Microworkers: https://www.microworkers.com/ — Small online tasks; review task legality, payout rules and platform terms.
+- SproutGigs: https://sproutgigs.com/ — Small online gigs; avoid tasks involving fake engagement, spam or policy violations.
+
+Creator Earnings, Affiliate & Digital Products
+- YouTube Partner Program: https://www.youtube.com/creators/ — Creator resources and eligibility guidance for YouTube monetization.
+- YouTube Studio: https://studio.youtube.com/ — Manage channel analytics, eligible monetization and content.
+- Instagram for Creators: https://creators.instagram.com/ — Creator tools, branded content guidance and features where eligible.
+- Facebook for Creators: https://www.facebook.com/creators/ — Creator education and eligible monetization information.
+- TikTok Creator Portal: https://www.tiktok.com/creators/creator-portal/ — Creator learning resources; features vary by country and age.
+- Twitch: https://www.twitch.tv/ — Live streaming with monetization features for eligible creators.
+- Patreon: https://www.patreon.com/ — Memberships and paid creator communities.
+- Ko-fi: https://ko-fi.com/ — Accept tips, memberships and sell digital products where supported.
+- Buy Me a Coffee: https://www.buymeacoffee.com/ — Creator support, memberships and digital product tools.
+- Substack: https://substack.com/ — Publish newsletters and offer paid subscriptions.
+- Medium Partner Program: https://medium.com/partner-program — Writer earnings program subject to country eligibility and current terms.
+- Amazon Associates India: https://affiliate-program.amazon.in/ — Affiliate links for eligible products; disclosure and program rules apply.
+- EarnKaro: https://earnkaro.com/ — India-focused affiliate and deal-sharing platform; verify current terms.
+- Cuelinks: https://www.cuelinks.com/ — Affiliate marketing network connecting publishers with merchants.
+- Impact.com: https://impact.com/ — Affiliate and partnership management network for publishers and brands.
+- Awin: https://www.awin.com/ — Affiliate marketing network; advertiser acceptance and country terms apply.
+- CJ Affiliate: https://www.cj.com/ — Affiliate network for publishers and advertisers.
+- PartnerStack: https://partnerstack.com/ — Partner and SaaS affiliate programs; approval varies.
+- Gumroad: https://gumroad.com/ — Sell digital downloads, courses and other creator products.
+- Payhip: https://payhip.com/ — Sell digital downloads, memberships and courses.
+- Lemon Squeezy: https://www.lemonsqueezy.com/ — Sell digital products and software; account and payout eligibility applies.
+- Etsy Seller: https://www.etsy.com/sell — Sell eligible handmade, vintage and digital products under marketplace rules.
+- Shopify: https://www.shopify.com/ — Create an online store; subscription and payment processing costs may apply.
+- Instamojo: https://www.instamojo.com/ — India-focused online store and payment tools for businesses and creators.
+- Razorpay Payment Links: https://razorpay.com/payment-links/ — Collect payments for legitimate products or services; business verification applies.
+- Canva Creators: https://www.canva.com/creators/ — Explore creator contribution programs; acceptance and earnings are not guaranteed.
+- Adobe Stock Contributor: https://contributor.stock.adobe.com/ — License accepted stock photos, vectors and illustrations.
+- Shutterstock Contributor: https://submit.shutterstock.com/ — Submit eligible photos, illustrations and video as a contributor.
+- Getty Images Contributor: https://www.gettyimages.com/workwithus — Contributor opportunities for selected visual content and creators.
+- Envato Market Author: https://author.envato.com/ — Sell eligible digital assets subject to marketplace review and terms.
+
+Government Income, Self-Employment & Public Procurement
+- myScheme: https://www.myscheme.gov.in/ — Find government schemes and check eligibility across ministries and states.
+- National Career Service: https://www.ncs.gov.in/ — Government job search, career counselling and employment services.
+- APPSC: https://psc.ap.gov.in/ — Andhra Pradesh public-service recruitment notifications and exams.
+- AP e-Procurement: https://www.apeprocurement.gov.in/ — Andhra Pradesh government tenders and procurement opportunities for eligible bidders.
+- Government e-Marketplace (GeM): https://gem.gov.in/ — Government procurement marketplace for registered eligible sellers and service providers.
+- Central Public Procurement Portal: https://eprocure.gov.in/ — Search central government tenders and procurement notices.
+- Startup India: https://www.startupindia.gov.in/ — Startup learning, recognition and scheme resources; benefits have eligibility criteria.
+- Udyam Registration: https://udyamregistration.gov.in/ — Official MSME registration for eligible micro, small and medium enterprises.
+- MSME Ministry Schemes: https://msme.gov.in/offerings — Official MSME schemes and enterprise-support programmes.
+- PMEGP e-Portal: https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp — Apply for eligible new micro-enterprise support under PMEGP; project and bank approval apply.
+- Pradhan Mantri MUDRA Yojana: https://www.mudra.org.in/ — Information about eligible micro-enterprise loans through participating lenders; this is credit, not a grant.
+- PM Vishwakarma: https://pmvishwakarma.gov.in/ — Eligible traditional artisans may access training, toolkit incentives, credit and market support.
+- PM SVANidhi: https://pmsvanidhi.mohua.gov.in/ — Working-capital loan scheme for eligible street vendors; repayment and eligibility rules apply.
+- DAY-NULM: https://nulm.gov.in/ — Urban livelihood, self-employment and skill-support programme information where active.
+- National Rural Livelihoods Mission: https://nrlm.gov.in/ — Rural livelihoods and self-help group programme information.
+- National Livelihood Mission – Skill: https://ddugky.gov.in/ — Rural youth skill and placement programme information; check current intake.
+- Skill India Digital Hub: https://www.skillindiadigital.gov.in/ — Find skill courses, certifications and employment-linked training.
+- APSSDC: https://www.apssdc.in/ — Andhra Pradesh skill-development courses and employment-oriented programmes.
+- CSC e-Governance Services: https://csc.gov.in/ — Common Service Centre network information for authorised digital service entrepreneurs.
+- India Post Franchise: https://www.indiapost.gov.in/ — Check official postal franchise and recruitment notices; openings vary.
+- KVIC: https://www.kvic.gov.in/ — Khadi and Village Industries Commission schemes, training and enterprise support.
+- National Small Industries Corporation: https://www.nsic.co.in/ — MSME support, marketing, tender and enterprise development services.
+- Stand-Up India: https://www.standupmitra.in/ — Information on eligible entrepreneurship loans for SC/ST and women entrepreneurs; lender approval applies.
+- PMFME Scheme: https://pmfme.mofpi.gov.in/ — Food-processing micro-enterprise support; check whether application windows are active.
+- National Agriculture Market (eNAM): https://enam.gov.in/ — Electronic agriculture market information and trading resources for eligible participants.
+- Agmarknet: https://agmarknet.gov.in/ — Agricultural market prices and arrivals; useful for farm-business decisions.
+- AP Cooperative Department: https://apcooperation.nic.in/ — Andhra Pradesh cooperative-sector information; check official services and schemes.
+- AP Government Portal: https://www.ap.gov.in/ — Official source for AP departments, schemes, notifications and public-service links.
+- AP MeeSeva: https://onlineap.meeseva.gov.in/CitizenPortal/userinterface/citizen/Home.aspx — AP citizen-service portal; certain services may support business and livelihood documentation.
+- NABARD: https://www.nabard.org/ — Rural development, agriculture and enterprise-finance information; funding is programme-specific.
+- SIDBI: https://www.sidbi.in/ — MSME finance and development programmes through eligible channels.
+- National Apprenticeship Promotion Scheme: https://www.apprenticeshipindia.gov.in/ — Apprenticeship opportunities and employer registration information.
+- NATS Apprenticeship: https://nats.education.gov.in/ — Apprenticeship portal for eligible students and graduates.
+- PM-KISAN: https://pmkisan.gov.in/ — Income-support scheme information for eligible farmer families; not a job or general earning platform.
+- AP e-Crop / Agriculture Department: https://apagriculture.ap.gov.in/ — Andhra Pradesh agriculture department information and farmer services; verify current portal availability.
+
+Online Selling, Stock Media & Digital Work
+- Amazon Seller India: https://sell.amazon.in/ — Sell eligible products on Amazon India; fees, GST and category rules may apply.
+- Flipkart Seller Hub: https://seller.flipkart.com/ — Register to sell products on Flipkart subject to seller requirements.
+- Meesho Supplier: https://supplier.meesho.com/ — Sell products through Meesho; review current fees, logistics and eligibility.
+- IndiaMART Seller: https://seller.indiamart.com/ — Connect with business buyers and list products or services.
+- TradeIndia: https://www.tradeindia.com/ — B2B marketplace for products, suppliers and business leads.
+- OLX India: https://www.olx.in/ — List permitted second-hand items locally; use safe payment and meeting practices.
+- Facebook Marketplace: https://www.facebook.com/marketplace/ — Local buying and selling subject to platform rules and regional availability.
+- eBay Seller Centre: https://www.ebay.com/sellercenter — Sell eligible products in supported markets; international shipping and fees apply.
+- Redbubble Artist: https://www.redbubble.com/ — Sell designs on print-on-demand products; content review and margins apply.
+- Spring: https://spring.com/ — Creator merchandise and print-on-demand tools; verify current availability.
+- Zazzle: https://www.zazzle.com/ — Sell designs on customizable products through a marketplace.
+- Printful: https://www.printful.com/ — Print-on-demand fulfilment; connect a store and account for production costs.
+- Printify: https://printify.com/ — Print-on-demand supplier network; product and shipping costs apply.
+- Adobe Stock Contributor: https://contributor.stock.adobe.com/ — License accepted stock images, vectors, templates and video.
+- Shutterstock Contributor: https://submit.shutterstock.com/ — Submit accepted photos, illustrations and footage for licensing.
+- Pond5 Contributor: https://www.pond5.com/sell-stock-footage/ — Sell eligible stock video, music and media assets.
+- Freepik Contributor: https://contributor.freepik.com/ — Submit eligible design assets and illustrations for licensing.
+- Envato Market: https://envato.com/ — Marketplace ecosystem for digital creative assets; author acceptance may be required.
+- Creative Market: https://creativemarket.com/ — Sell eligible fonts, graphics, templates and other design assets.
+- itch.io: https://itch.io/ — Publish and sell indie games and digital projects.
+- Unity Asset Store Publisher: https://assetstore.unity.com/publishing — Publish eligible Unity assets; review publisher requirements.
+- Unreal Engine Marketplace / Fab: https://www.fab.com/ — Sell or distribute eligible digital assets through Epic's marketplace.
+- Gumroad: https://gumroad.com/ — Sell digital products, guides, templates and downloads.
+- Payhip: https://payhip.com/ — Sell ebooks, courses, downloads and memberships.
+- Wikimedia Commons: https://commons.wikimedia.org/ — Share media under suitable free licences; not an earning platform, but useful for lawful portfolio distribution.
+- Open Collective: https://opencollective.com/ — Transparent community funding for eligible projects and open-source work; not guaranteed personal income.
+
+
+Directory research references:
+https://www.india.gov.in/directory/web-directory
+https://igod.gov.in/
+https://www.ncs.gov.in/
+https://www.nqr.gov.in/
+https://mycareeradvisor.ncert.gov.in/
+https://awesomelists.io/
+https://github.com/0ex/more-awesome
+
+
+35,000 ENTRY BUILD — RESOURCE DISCOVERY NOTES
+Common Crawl: https://commoncrawl.org/
+Common Crawl URL Index: https://www.commoncrawl.org/url-index
+Top-domain datasets overview: https://github.com/PeterDaveHello/top-1m-domains
+NetAPI Top 1M methodology and download: https://github.com/coderockers/top-1mln-websites
+Important: profession-specific search shortcuts are discovery queries, not individually vetted websites. Verify the destination before relying on it.
